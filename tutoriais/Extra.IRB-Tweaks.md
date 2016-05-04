@@ -13,16 +13,14 @@ produtivo.
 Abaixo há duas screenshots mostrando como o IRB é por default
 e como ele ficou após algumas modificações.
 
-**Antes**
-
 <p align="center">
-  <img src="imgs/irb-before.png?raw=true" width="200"/>
+  <b>Antes</b></br>
+  <img src="imgs/irb-before.png?raw=true"/>
 </p>
 
-**Depois**
-
 <p align="center">
-  <img src="imgs/irb-after.png?raw=true" width="200"/>
+  <b>Depois</b></br>
+  <img src="imgs/irb-after.png?raw=true"/>
 </p>
 
 ## Introdução
@@ -115,10 +113,10 @@ Apesar do terminal irb ter diversas similiaridades com terminais
                         percorrer pelas entradas anteriores do
                         terminal
 
-## Obrigado :)
+### Obrigado :)
 
 --
 <p align="center">
     Developed by </br>
-  <img alt="Sementes Soluções em Ecologia" src="imgs/sementes-logo.png?raw=true"/>
+  <img alt="Sementes Soluções em Ecologia" width="350" src="imgs/sementes-logo.png?raw=true"/>
 </p>
