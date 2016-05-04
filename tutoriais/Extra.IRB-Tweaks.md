@@ -107,11 +107,11 @@ IRB.conf[:EVAL_HISTORY] = 1000
 Apesar do terminal irb ter diversas similiaridades com terminais
 *NIX/LINUX, é bom relembrar alguns atalhos:
 
-    - *TAB*: Apertar tab duas ou mais vezes permite completar nome
+*   *TAB*: Apertar tab duas ou mais vezes permite completar nome
              de variaveis, metodos, classes e gems externas
-    - *CTRL-R*: O atalho CTRL-R permite a consulta recursiva de um
+*   *CTRL-R*: O atalho CTRL-R permite a consulta recursiva de um
                 determinado texto
-    - *SETA PARA CIMA*: Apertar a seta para cima do teclado permite
+*   *SETA PARA CIMA*: Apertar a seta para cima do teclado permite
                         percorrer pelas entradas anteriores do
                         terminal
 
