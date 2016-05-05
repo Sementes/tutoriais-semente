@@ -21,12 +21,12 @@ e como ele ficou após algumas modificações.
 
 <p align="center">
   <b>Antes</b></br>
-  <img src="/assests/imgs/irb-before.png?raw=true"/>
+  <img src="/assets/imgs/irb-before.png?raw=true"/>
 </p>
 
 <p align="center">
   <b>Depois</b></br>
-  <img src="/assests/imgs/irb-after.png?raw=true"/>
+  <img src="/assets/imgs/irb-after.png?raw=true"/>
 </p>
 
 ## Introdução
@@ -124,6 +124,6 @@ Apesar do terminal irb ter diversas similiaridades com terminais
 --
 <p align="center">
     Developed by </br>
-  <img alt="Sementes Soluções em Ecologia" width="350" src="/assests/imgs/sementes-logo.png?raw=true"/>
+  <img alt="Sementes Soluções em Ecologia" width="350" src="/assets/imgs/sementes-logo.png?raw=true"/>
 A
 </p>
