@@ -121,9 +121,7 @@ Apesar do terminal irb ter diversas similiaridades com terminais
 
 ### Obrigado :)
 
---
 <p align="center">
     Developed by </br>
   <img alt="Sementes Soluções em Ecologia" width="350" src="/assets/imgs/sementes-logo.png?raw=true"/>
-A
 </p>
