@@ -1,5 +1,5 @@
 # General Jekyll Config
-highlighter: rougue
+highlighter: rouge
 url: http://tutoriais.sementes.co
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
