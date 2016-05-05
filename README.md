@@ -12,6 +12,6 @@ Acessar [http://tutoriais.sementes.co/](Tutoriais Sementes), https://tutoriais.s
     <b>Sementes - Plantando bons hábitos</b></br>
     <i>#SomosTodosSementes</i></br></br>
     Developed by </br>
-  <img alt="Sementes Soluções em Ecologia" width="350" src="imgs/sementes-logo.png?raw=true"/>
+  <img alt="Sementes Soluções em Ecologia" width="350" src="assets/imgs/sementes-logo.png?raw=true"/>
 </p>
 
