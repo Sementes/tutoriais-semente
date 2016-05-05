@@ -5,7 +5,7 @@ todo e qualquer tipo de material, que posso ajudar as pessoas a desenvolver cód
 sobre algum dos tópicos abordados. Por tal razão sinta-se a vontade para poder sugerir e ou
 editar os conteudos aqui presentes, não esquecendo obviamente de indicar a referência.
 
-Acessar [http://tutoriais.sementes.co/](Tutoriais Sementes), https://tutoriais.sementes.co .
+Acessar https://tutoriais.sementes.co .
 
 --
 <p align="center">
