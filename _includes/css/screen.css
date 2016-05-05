@@ -157,7 +157,7 @@ nav h1, nav h2 {
 }
 
 .content {
-  font: 400 16px/22px "open sans", sans-serif;
+  font: 400 16px/22px "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";;
   border-left: 1px solid #DDD;
   padding-left: 40px;
   padding-top: 25px;
