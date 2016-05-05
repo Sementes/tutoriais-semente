@@ -1,7 +1,9 @@
 ---
 layout: post
 title: IRB Tweaks and Tips
-categories: tutoriais avançados, ruby
+categories:
+- tutoriais avancados
+- ruby
 - blog
 ---
 Como todos devem saber o terminal interativo do ruby se chama

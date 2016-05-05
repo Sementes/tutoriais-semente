@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Ambiente Ruby
-categories: tutoriais basicos, ruby
+categories:
 - blog
+- tutoriais basicos
+- ruby
 ---
 ## Prefácio
 
