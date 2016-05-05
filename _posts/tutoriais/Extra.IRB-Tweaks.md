@@ -1,5 +1,9 @@
-# IRB Tweaks and Tips
-
+---
+layout: post
+title: IRB Tweaks and Tips
+categories: tutoriais avançados, ruby
+- blog
+---
 Como todos devem saber o terminal interativo do ruby se chama
 IRB e tem a função de ajudar na análise rápida de trechos código e na
 execução de testes. Apesar de ser uma ótima ferramenta numa
