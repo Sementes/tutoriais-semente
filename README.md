@@ -10,6 +10,6 @@ editar os conteudos aqui presentes, não esquecendo obviamente de indicar a refe
     <b>Sementes - Plantando bons hábitos</b></br>
     <i>#SomosTodosSementes</i></br></br>
     Developed by </br>
-  <img alt="Sementes Soluções em Ecologia" width="350" src="tutoriais/imgs/sementes-logo.png?raw=true"/>
+  <img alt="Sementes Soluções em Ecologia" width="350" src="_posts/tutoriais/imgs/sementes-logo.png?raw=true"/>
 </p>
 
