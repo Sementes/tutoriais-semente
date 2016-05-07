@@ -1,0 +1,4 @@
+# Ignore those lines
+_site/
+.sass-cache/
+.jekyll-metadata
